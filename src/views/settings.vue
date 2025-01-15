@@ -754,6 +754,21 @@
       </div>
 
       <div class="footer">
+        <p class="author"
+          >MADE BY
+          <a href="" target="_blank">QIER222 & XKABCTT</a></p
+        >
+        <p class="version">v{{ version }}</p>
+
+        <a
+          v-if="!isElectron"
+          href=""
+        >
+          <img
+            height="36"
+            src=""
+          />
+        </a>
       </div>
     </div>
   </div>
