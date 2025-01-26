@@ -756,7 +756,7 @@
       <div class="footer">
         <p class="author"
           >MADE BY
-          <a href="http://github.com/qier222" target="_blank">QIER222</a></p
+          <a href="#" target="_blank">QIER222 & xkabctt</a></p
         >
         <p class="version">v{{ version }}</p>
 
@@ -764,10 +764,6 @@
           v-if="!isElectron"
           href="https://vercel.com/?utm_source=ohmusic&utm_campaign=oss"
         >
-          <img
-            height="36"
-            src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg"
-          />
         </a>
       </div>
     </div>
