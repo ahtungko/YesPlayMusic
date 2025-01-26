@@ -755,7 +755,7 @@
 
       <div class="footer">
         <p class="author"
-          >MADE BY
+        >MADE BY
           <a href="#" target="_blank">QIER222 & xkabctt</a></p
         >
         <p class="version">v{{ version }}</p>
